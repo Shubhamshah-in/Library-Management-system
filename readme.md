@@ -110,7 +110,7 @@ The Library Management System is a web application designed to streamline librar
 ---
 
 ## Contributors
-- Nooman Yousuf
+- Shubham Shah
 
 ---
 
